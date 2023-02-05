@@ -52,3 +52,15 @@ const sumAge = (user) => {
 };
 console.log(sumAge(user));
 */
+// 3
+/*
+
+function alphanumeric(string) {
+  return /^[0-9a-z]+$/i.test(string);
+}
+
+console.log(alphanumeric("javascrpt"));
+console.log(alphanumeric("hello__"));
+console.log(alphanumeric("R0bOt"));
+
+*/
